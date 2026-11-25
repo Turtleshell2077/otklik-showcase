@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /otklik-showcase/error
+
+Sitemap: https://turtleshell2077.github.io/otklik-showcase/sitemap-index.xml

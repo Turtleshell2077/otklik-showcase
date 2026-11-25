@@ -1,0 +1,1 @@
+import{t as e}from"./utm.Bw0y4vKt.js";try{e(sessionStorage,location.search,location.pathname,document.referrer)}catch{}

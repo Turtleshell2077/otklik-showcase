@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Отклик">
+  <title>Отклик</title>
+  <!-- Знак «Отклика» (DESIGN §1): сигнальная точка с расходящимся кольцом на графите. -->
+  <rect width="64" height="64" rx="14" fill="#0E1116"/>
+  <circle cx="32" cy="32" r="19" fill="none" stroke="#FF5B2E" stroke-opacity="0.35" stroke-width="3"/>
+  <circle cx="32" cy="32" r="10" fill="#FF5B2E"/>
+</svg>
